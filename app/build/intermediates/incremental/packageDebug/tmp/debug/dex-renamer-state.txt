@@ -1,0 +1,4 @@
+#Wed Mar 13 14:05:48 EDT 2024
+base.0=D\:\\Machine Learning\\Android based apps\\TextTranslationJavaStarter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
