@@ -123,7 +123,7 @@ ADDED from D:\Machine Learning\Android based apps\TextTranslationJavaStarter\app
 	android:exported
 		ADDED from D:\Machine Learning\Android based apps\TextTranslationJavaStarter\app\src\main\AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from D:\Machine Learning\Android based apps\TextTranslationJavaStarter\app\src\main\AndroidManifest.xml:13:19-47
+		ADDED from D:\Machine Learning\Android based apps\TextTranslationJavaStarter\app\src\main\AndroidManifest.xml:13:19-78
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from D:\Machine Learning\Android based apps\TextTranslationJavaStarter\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN

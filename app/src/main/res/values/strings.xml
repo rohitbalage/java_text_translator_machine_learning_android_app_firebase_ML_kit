@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ImageClassification</string>
+    <string name="translated_text">Translated Text</string>
 </resources>
